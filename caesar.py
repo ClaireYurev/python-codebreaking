@@ -1,6 +1,6 @@
 import collections
 
-alphabet = "abcdefghijklmnopqrstuvwxyz"
+alphabet = "abcdefghijklmnopqrstuvwxyz0123456789"
 
 # convert between letters and numbers up to 26
 def number_to_letter(i):
