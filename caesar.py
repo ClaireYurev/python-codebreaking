@@ -4,6 +4,7 @@ alphabet = "abcdefghijklmnopqrstuvwxyz"
 
 # Easter Egg: int32 2201010001
 # Easter Egg: int64
+# 2022
 
 # convert between letters and numbers up to 26
 def number_to_letter(i):
